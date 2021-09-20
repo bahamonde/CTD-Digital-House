@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(15, 0, 0);
+}
+header {
+    background-image: url("https://portalovertube.com/wp-content/uploads/2015/02/a-usurpadora-1280x720.jpg");
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    margin: 0px 0px;
+    text-align: center;
+    padding: 110px;
+}
+h1, h2 {
+    color: rgb(153, 10, 10);
+    font-size: 50px;
+}
+button {
+    text-align: center;
+    height: 50px;
+    width: 220px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(218, 40, 40);  
+}
+
+p{
+    color: rgb(209, 94, 94);
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
