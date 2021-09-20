@@ -1,0 +1,43 @@
+ body {
+    height: 2000px;
+    background-color: rgb(2, 15, 0);
+  }
+  
+  body div {
+    width: 250px;
+    height: 250px;
+    border: rgb(112, 53, 160) 5px solid;
+    background-color: rgb(149, 58, 172);
+    font-size: 95px;
+    text-align: center;
+  }
+  
+    
+  #div1{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+  
+  }
+  
+  #div2{
+      position: absolute;
+      top: 0px;
+      right: 0px;
+  }
+  
+  #div3{
+      position: fixed;
+      left: 45%;
+      bottom: 0%;
+  }
+
+  .dentro{
+    padding: 10%;
+    width: 150px;
+    height: 150px;
+    border: rgb(213, 202, 223) 5px solid;
+  }
+  
+ 
+  
