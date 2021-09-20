@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color:#131313;   
+}
+
+h1{ 
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.media-picture{
+    width: 100%;
+    background-image: url("https://puropop.com.br/wp-content/uploads/2015/04/avengers-age-of-ultron-group-banner.jpg");
+    height: 400px;
+}
+
+.review-score {   
+    padding: 12px;
+    background-color: #e6bd09;
+    color: white;
+}
+h2 {
+    color:steelblue;
+}
+p {
+    color:#bdbdbd;
+    font-family: "Roboto", sans-serif;
+}
+a {
+    color: yellow;
+}
